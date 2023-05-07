@@ -1,0 +1,274 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Login Page</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+  <style>
+    .purple1 {
+      background-color: rgb(100, 55, 184);
+      text-align: center;
+    }
+
+    .white1 {
+      background-color: rgb(255, 255, 255);
+    }
+
+
+    a:hover {
+      background-color: rgb(50, 5, 80);
+      text-decoration: none;
+
+    }
+
+    a:link {
+      text-decoration: none;
+    }
+
+
+    .center {
+      margin-left: auto;
+      margin-right: auto;
+      width: 200%;
+      display: block;
+      margin-top: 10px;
+    }
+
+    .h1 {
+      text-align: center;
+    }
+
+    .delete {
+      margin-left: 410px;
+      margin-top: -84px;
+    }
+
+    .save {
+      margin-left: -52%;
+      margin-right: auto;
+      width: 100%;
+      display: block;
+      margin-top: 10px;
+    }
+
+    .purple-border textarea {
+      border: 1px solid rgb(100, 55, 184);
+  }
+
+  .green1 {
+    background-color: rgb(88, 87, 89);
+    margin-top: -35px;
+}
+
+.red1 {
+  background-color: rgb(201, 72, 64);
+}
+
+.margintop2{
+  margin-top: 1%;
+}
+
+.topmargin{
+  margin-top: 7px;
+}
+
+.person{
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  border-color: rgb(219, 157, 42);
+  padding: 7px;
+}
+
+.medicine{
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  border-color: rgb(19, 120, 209);
+  padding: 7px;
+}
+
+.dosage{
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  border-color: green;
+  padding: 7px;
+}
+
+.frequency{
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  border-color: rgb(152, 52, 209);
+  padding: 7px;
+}
+
+.diagnostic-test{
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  border-color: blue;
+  padding: 7px;
+}
+
+
+.phone{
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  border-color: rgb(199, 38, 110);
+  padding: 7px;
+}
+
+.address{
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  border-color: rgb(140, 138, 189);
+  padding: 7px;
+}
+
+.warn {
+  color: darkmagenta;
+  background: lightpink;
+  border: 1px solid darkred;
+}
+  </style>
+</head>
+
+<body>
+
+  <br> <br> <br> <br> <br> 
+
+
+
+  <div class="jumbotron p-5">
+
+
+    <!-- Row 1 starts -->
+    <div class="row">
+
+
+<!--#########################################Example#################################################-->
+      <p style="line-height: 40px;"> #Example <br> hey name is <span class = "person"> Shreya Sharma </span>, how are you? medicne name is <span class = "medicine"> Amoxophllin</span> for <span class = "dosage">500mg</span>. It is to be taken <span class = "frequency">2 times a day</span>. Phone Number: <span class = "phone">+91 134214124124</span>. It is located in <span class = "address">Hyderabad, India</span>.</span> </p> 
+  <!--###########################################################################################--> 
+
+
+
+      <h1> <center> Annotate the Prescription </center> </h1>
+
+    </div>
+    <!-- Row 1 ends -->
+    <br> <br> 
+    <!-- Row 2 starts -->
+    <div class="row">
+      <div class="col-3"> </div> <!-- row2 col 1-->
+      <div class="col-6">
+        <!-- row2 col 2-->
+        <form>
+      </div>
+      <!-- row 2 col 2 ends-->
+      <div class="col-3"> </div>
+      <!--row2 col3-->
+    </div>
+    <!-- Row 3 ends -->
+    <!-- Row 3 starts -->
+    <div class="row">
+      <div class="col-3"> </div> <!-- row2 col 1-->
+      <div class="col-6">
+
+
+
+        <div class = "row">
+
+          <div class="form-group purple-border">
+            <label for="exampleFormControlTextarea4">Text</label> <br>
+            <textarea class="form-control margintop2" id="exampleFormControlTextarea4" rows="3"></textarea>
+          </div>
+
+          <br><br><br><br><br><br>
+
+          <div class = "col">
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">NER Prediction</label>
+          <input type="text" class="form-control" id="exampleInputPassword1">
+        </div>
+      </div>
+
+      <div class = "col">
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Correct Spelling</label>
+          <input type="text" class="form-control" id="exampleInputPassword1">
+        </div>
+      </div>
+      <div class = "col">
+        <div class = "col">
+          Class
+          <select class="form-select topmargin" aria-label="Default select example", id="inputaddress">
+            <option selected>Medicine</option>
+            <option value="1">Person</option>
+            <option value="2">...</option>
+            <option value="3">...</option>
+          </select>
+        </div>
+      </div>
+      </div>
+
+
+
+    
+      </div>
+      <!-- row 3 col 2 ends-->
+      <div class="col-3"> </div>
+      <!--row3 col3-->
+    </div>
+    <!-- row 3 ends-->
+    <br> 
+    <!-- row 4 starts-->
+    <div class="row">
+      <div class="col-3"> </div> <!-- row2 col 1-->
+      
+      <div class="col-6 fluid">
+        <a href=""> <button type="submit" class="btn btn-light green1"> <p style="color:#ffffff;margin-bottom:0px;"> Edit </p> </button> </a>
+      </div>
+
+      <div class="col-6 fluid">
+        <a href=""> <button type="submit" class="btn btn-light red1 delete"> <p style="color:#ffffff;margin-bottom:0px;"> Delete </p> </button> </a>
+      </div>
+
+      <div class="col-6 fluid">
+        <br>
+        <a href=""> <button type="submit" class="btn btn-light purple1 save"> <p style="color:#ffffff;margin-bottom:0px;"> Save </p> </button> </a>
+      </div>
+      <!-- row4 col2 ends-->
+      </form>
+
+      <div class="col-3"> </div> <!-- row 4 col3-->
+    </div>
+    <!-- row 4 ends-->
+
+
+  </div>
+  <!--jumbotron ends-->
+
+
+
+
+
+
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>

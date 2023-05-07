@@ -1,0 +1,719 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  section{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  section .text-container{
+     display: flex;
+  }
+  
+  .purple1 {
+        background-color: rgb(100, 55, 184);
+        text-align: center;
+      }
+  
+      .white1 {
+        background-color: rgb(255, 255, 255);
+      }
+  
+  
+      a:hover {
+        text-decoration: none;
+  
+      }
+  
+      a:link {
+        text-decoration: none;
+      }
+  
+  
+      .center {
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        display: block;
+        margin-top: 10px;
+      }
+
+      .save {
+        margin-left: -52%;
+        margin-right: auto;
+        width: 100%;
+        display: block;
+        margin-top: 10px;
+      }
+
+      textarea {
+        border: 1px solid rgb(100, 55, 184);
+      }
+
+      .purple-border {
+        border: 1px solid rgb(100, 55, 184);
+        border-radius: 10px;
+        padding-bottom: 15px;
+        padding-top: 25px;
+        padding-left: 25px;
+        padding-right: 25px;
+        width:95%;
+    }
+
+      .green1 {
+        background-color: rgb(88, 87, 89);
+        margin-top: -35px;
+      }
+
+      .red1 {
+        width:150%;
+        background-color: rgb(201, 72, 64);
+      }
+
+      .fix-height {
+        height: 350px;
+      }
+
+      .delete {
+        margin-left: 480px;
+        margin-top: -84px;
+      }
+
+      .topmargin{
+        margin-top: 7px;
+      }
+      
+      .person{
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 5px;
+        border-color: rgb(219, 157, 42);
+        padding: 7px;
+      }
+      
+      .medicine{
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 5px;
+        border-color: rgb(19, 120, 209);
+        padding: 7px;
+      }
+      
+      .dosage{
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 5px;
+        border-color: green;
+        padding: 7px;
+      }
+      
+      .frequency{
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 5px;
+        border-color: rgb(152, 52, 209);
+        padding: 7px;
+      }
+      
+      .diagnostic-test{
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 5px;
+        border-color: blue;
+        padding: 7px;
+      }
+      
+      .squaremed1 {
+        height: 80px;
+        width: 80px;
+        background-color: rgb(243, 243, 243);
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-top: 10px;
+        border-radius: 8px;
+        padding:2px;
+      }
+
+      .div12 {
+            
+        background-color: rgb(248, 248, 248);
+        padding:10px;
+        margin-top: -45px;
+        margin-right: 50px;
+        margin-left: 50px;
+        margin-bottom: 60px;
+        border-radius: 10px;
+        height: 120px;
+      }
+
+      .phone{
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 5px;
+        border-color: rgb(199, 38, 110);
+        padding: 7px;
+      }
+      
+      .address{
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 5px;
+        border-color: rgb(140, 138, 189);
+        padding: 7px;
+      }
+
+      .box-title {
+        background: white none repeat scroll 0 0;
+        display: inline-block;
+        padding: 0 2px;
+        margin-left: 0em;
+        margin-top: -20em;
+        font-size:0.6em;
+      }
+
+      .textontop{
+        font-size:10px;
+        display: inline !important;
+        margin: 0;
+      }
+
+      p.hasBorder {
+        overflow: hidden; 
+      }
+
+      .warn {
+        color: darkmagenta;
+        background: lightpink;
+        border: 1px solid darkred;
+      }
+  
+      .h1 {
+        text-align: center;
+      }
+      
+      .block {
+          display: block;
+          width: 200px;    
+      }
+      
+      .margin-auto {
+          margin: 0 auto;
+      }
+  
+      .shiftleftimg {
+        position:relative;
+        margin-left: -440px;
+        margin-top: 60px;
+      }
+  
+      .white2{
+        background-color: rgb(255, 255, 255);
+        
+      }
+  
+      .shiftleftimg2 {
+          position:relative;
+          margin-left: 70px;
+          margin-top: 15px;
+        }
+  
+      
+        .shiftleftimg3 {
+          position:relative;
+          margin-left: 90px;
+          margin-top: 50px; 
+        }
+      html, body {
+          max-width: 100%;
+          overflow-x: hidden;
+      }
+  
+      .leftside{
+        margin-right: 120px;
+        margin-left: 20px;
+      }
+  
+      .shiftimage3{
+        margin-right: 0px;
+        margin-top:50px;
+      }
+  
+      .givemargin{
+        margin-top:0px;
+      }
+  
+      .div1 {
+        
+        padding: 10px;
+        background-color: rgb(247, 247, 247);
+        margin: 50px;
+        border-radius: 10px;
+      }
+  
+      .div2 {
+        
+        padding: 20px;
+        background-color: rgb(255, 255, 255);
+        margin: 50px;
+        border-radius: 10px;
+      }
+  
+      .div3 {
+              
+        background-color: rgb(250, 250, 250);
+        padding-top: 10px;
+        padding-bottom: 22px;
+        margin-top: -40px;
+        margin-right: 50px;
+        margin-left: 50px;
+        margin-bottom: 50px;
+        border-radius: 10px;
+      }
+  
+      .div4 {
+        
+        background-color: rgb(245, 245, 245);
+        padding:10px;
+        margin-top: -45px;
+        margin-right: 50px;
+        margin-left: 50px;
+        margin-bottom: 50px;
+        border-radius: 10px;
+        height: 120px;
+      }
+  
+      .div10 {
+        
+        background-color: rgb(250, 250, 250);
+        padding:10px;
+        margin-top: -45px;
+        margin-right: 50px;
+        margin-left: 50px;
+        margin-bottom: 50px;
+        border-radius: 10px;
+      }
+  
+      .div5 {
+        
+        background-color: rgb(245, 245, 245);
+        padding:10px;
+        margin-top: -40px;
+        margin-right: 50px;
+        margin-left: 50px;
+        margin-bottom: 50px;
+        border-radius: 10px;
+      }
+  
+  
+      .div6 {
+          margin-left: 50px;
+          margin-top: -20px;
+      }
+  
+      .div7 {
+        margin-left: auto; 
+        margin-right: 60px;
+        width: 200px;
+        margin-top: -20px;
+        font-size: 10px;
+    }
+  
+    .div8 {
+      margin-left: auto; 
+      margin-right: 50px;
+      width: 200px;
+      margin-top: -20px;
+      font-size: 10px;
+  }
+  
+  .div9 {
+    margin-left: 50px; 
+    width: 200px;
+    margin-top: -20px;
+    font-size: 10px;
+  }
+  
+      #loading {
+        max-width: 100vw;
+        overflow:hidden;
+      }
+  
+      .uppershift{
+        margin-top: -50px;
+      }
+  
+        .shiftjum {
+            display: block;
+            margin-left: 270px;
+            margin-right: 150px;
+          
+          }
+    
+    .margin-auto {
+        margin: 0 auto;
+    }
+  
+    .new2 {
+      margin-left: 27%;
+      margin-right: 20%;
+      width: 280px;
+  
+    }
+  
+    .one {
+      border-style: solid;
+      border-color: rgb(245, 245, 245);
+      background-color: rgb(245, 245, 245);
+      margin-left: 20%;
+      margin-right: 32%;
+    }
+  
+    .two{
+      text-align: center;
+    }
+  
+    .three{
+      margin-left: 5%;
+      margin-right: 5%; 
+      margin-top: 3%; 
+      margin-bottom: 3%; 
+      color:#646464; 
+      font-size:12.5px
+    }
+  
+    .four{
+      margin-left: 70%;
+      margin-right: 20%; 
+      margin-top: -260px; 
+      width: 8%;
+    }
+  
+    .five{
+      margin-left: 70%;
+      margin-right: 20%; 
+      margin-top: -230px; 
+      width: 8%;
+    }
+
+    .four1{
+      margin-left: 90%;
+      margin-right: 20%; 
+      margin-top: -140px; 
+      width: 8%;
+    }
+  
+    .five1{
+      margin-left: 90%;
+      margin-right: 20%; 
+      margin-top: -105px; 
+      width: 8%;
+    }
+  
+    .new{
+      margin-left: 28%;
+      margin-right: 20%; 
+      margin-top: 0px; 
+      width: 8%;
+    }
+  
+    .vertical-nav{
+      min-width: 17rem;
+      width: 17rem;
+      margin-top: 50px;
+      height: 100vh;
+      position: fixed;
+      top: 0;
+      left: 0;
+      box-shadow: 3px 3px 10px rgba(0,0,0,0.1);
+      transition: all 04s;
+    }
+  
+    .page-content{
+      width: calc(100%-17rem);
+      margin-left: 17rem;
+      transition: all 0.4s;
+    }
+  
+    #sidebar.active{
+      margin-left: -17rem;
+    }
+  
+    #content.active{
+      width: 100%;
+      margin: 0%;
+    }
+  
+    .separator {
+      margin: 3rem 0;
+      border-bottom: 1px dashed #fff;
+    }
+  
+    .text-uppercase{
+      letter-spacing: 0.1em;
+    }
+  
+    .text-gray{
+      color: #aaa;
+    }
+  
+    .nav-link{
+      text-transform: capitalize;
+    }
+  
+    .nav-link:hover{
+      background: #f3f2f2;
+    }
+  
+    .text-primary{
+      color: 7579e7 !important;
+    }
+  
+    @media (max-width: 768px){
+      #sidebar{
+        margin-left: -17rem;
+      }
+      #sidebar.active{
+        margin-left: 0;
+      }
+      #content{
+        width: 100%;
+        margin: 0;
+      }
+      #content.active{
+        margin-left:17rem;
+        width: calc(100% - 17rem);
+      }
+    }
+  
+    .hamburger {
+      width: 35px;
+      height: 3px;
+      background-color: black;
+      margin: 6px 0;
+    }
+  
+    .a1 {
+      margin-left: 170px;
+    }
+  
+    .square3 {
+      height: 85px;
+      width: 85px;
+      background-color: rgb(212, 212, 212);
+      border-radius: 5%;
+      margin-left: 10px;
+      margin-top: 5px;
+    }
+  
+    .changepic{
+        width: 107px;
+        margin-top: -80px;
+        margin-left: 120px;
+    }
+  
+    .formclass{
+        margin-left: 170px;
+    }
+  
+    .gen{
+        margin-top: -70px;
+        margin-left: 250px;
+        width: 200px;
+    }
+  
+    .name1{
+        width: 230px;
+    }
+  
+    .weight{
+        margin-top: -70px;
+        margin-left: 119px;
+        width: 200px;
+    }
+    .age{
+      width: 100px;
+      margin-top: 20px;
+    }
+  
+  .email{
+    width: 450px;
+    margin-top: 20px;
+  }
+  
+  .address{
+    width: 450px;
+    margin-top: 20px;
+  }
+  
+  .medsubmit{
+    width:200px;
+    margin-left: 230px;
+  }
+  
+  .heading{
+    text-align: center;
+      }
+  
+  .date{
+    width: 200px;
+  }
+  
+  .grey1{
+    color: rgb(196, 80, 80);
+  }
+  
+  .eight{
+    margin-left: 60%;
+    margin-right: 20%; 
+    margin-top: 20px; 
+    width: 8%;
+  }
+  
+  .seven{
+    margin-left:59%;
+    margin-right: 20%;
+    width: 280px;
+    margin-top: -2px;
+  }
+  
+  .medsubmit{
+    width:200px;
+    margin-left: 230px;
+  }
+  
+  .circle {
+    height: 90px;
+    width: 90px;
+    background-color: rgb(177, 177, 177);
+    border-radius: 50%;
+    margin-left: 50px;
+  }
+  
+  .squaremed {
+    height: 80px;
+    width: 80px;
+    background-color: rgb(245, 245, 245);
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 8px;
+    padding:2px;
+  }
+  
+  .square {
+    height: 80px;
+    width: 80px;
+    background-color: rgb(245, 245, 245);
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: 50px;
+    margin-top: 10px;
+    border-radius: 8px;
+    padding:2px;
+  }
+
+  /* Annotation page NER design */
+
+.style_it >>> .spark-nlp-display-entity-wrapper {
+  display: inline-grid;
+  text-align: center;
+  border-radius: 4px;
+  margin: 0 2px 5px 2px;
+  padding: 1px;
+}
+
+.style_it >>> .spark-nlp-display-others {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.style_it >>> .spark-nlp-display-entity-type-Medicine{
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: block;
+  padding: 3px 5px;
+}
+
+.style_it >>> .spark-nlp-display-entity-Medicine {
+  font-size: 14px;
+  line-height: 24px;
+  background: #f1f2f3;
+  border-width: medium;
+  text-align: center;
+  font-weight: 400;
+  border-radius: 5px;
+  padding: 2px 5px;
+  display: block;
+  margin: 3px 2px;
+}
+
+.style_it >>> .spark-nlp-display-entity-type-Diagnostic_test{
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: block;
+  padding: 3px 5px;
+}
+
+.style_it >>> .spark-nlp-display-entity-Diagnostic_test {
+  font-size: 14px;
+  line-height: 24px;
+  background: #f1f2f3;
+  border-width: medium;
+  text-align: center;
+  font-weight: 400;
+  border-radius: 5px;
+  padding: 2px 5px;
+  display: block;
+  margin: 3px 2px;
+}
+
+  /* ...........loader here............ */
+
+  .content {
+    margin-left: 47%;
+    margin-top: 15%;
+    padding: 15px;
+    overflow: hidden;
+  }
+
+  .line {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    background-color: #aaa;
+  }
+
+  .load-3 .line:nth-last-child(1) {
+    animation: loadingC 1s 0.1s linear infinite;
+  }
+  .load-3 .line:nth-last-child(2) {
+    animation: loadingC 1s 0.2s linear infinite;
+  }
+  .load-3 .line:nth-last-child(3) {
+    animation: loadingC 1s 0.3s linear infinite;
+  }
+
+  @keyframes loadingC {
+    0 {
+      transform: translate(0, 0);
+    }
+    50% {
+      transform: translate(0, 20px);
+    }
+    100% {
+      transform: translate(0, 0);
+    }
+  }

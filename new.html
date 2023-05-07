@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    </head>
+    <body>
+        <div>
+            <div class="jumbotron p-5">
+            <!-- Row 1 starts -->
+            <div class="row">
+              <h1> <center> Annotate the Prescription </center> </h1>
+            </div>
+            <!-- Row 1 ends -->
+            <br> <br> 
+            <!-- Row 2 starts -->
+            <div class="row">
+              <div class="col-3"> </div> <!-- row2 col 1-->
+              <div class="col-6">
+                <!-- row2 col 2-->
+              </div>
+              <!-- row 2 col 2 ends-->
+              <div class="col-3"> </div>
+              <!--row2 col3-->
+            </div>
+            <!-- Row 3 ends -->
+            <!-- Row 3 starts -->
+            <div class="row">
+              <div class="col-3"><img src="../static/prescription.jpeg" alt="Prescription" width="500" height="600"> </div> <!-- row2 col 1-->
+              
+              <div class = "col"> </div>
+              <div class="col-7">
+        
+                <div class = "row">
+                  
+                
+                  <div class="form-group purple-border" >
+                    
+                    <!--#########################################Example#################################################-->
+              <p style="line-height: 38px;">  hey name is <span class="person"> Shreya Sharma (Person) </span>, how are you? medicne name is <span class = "medicine"> Amoxophllin (Medicine) </span> for <span class = "dosage">500mg (Dosage)</span>. It is to be taken <span class = "frequency">2 times a day</span>. Phone Number: <span class = "phone">+91 134214124124</span>. It is located in <span class = "address">Hyderabad, India</span>.</span>
+                hey name is <span class = "person"> Shreya Sharma </span>, how are you? medicne name is <span class = "medicine"> Amoxophllin</span> for <span class = "dosage">500mg</span>. It is to be taken <span class = "frequency">2 times a day</span>. Phone Number: <span class = "phone">+91 134214124124</span>. It is located in <span class = "address">Hyderabad, India</span>.
+               </p>
+                <h4 style="text-align:center;" @click="annotate">
+                    {{txt}}
+                </h4>
+              <!--###########################################################################################--> 
+                  </div>
+        
+                  <br><br><br><br><br><br>
+        
+                  <div class = "col">
+                    <br><br>
+                <div class="mb-3">
+                  <label for="exampleInputPassword1" class="form-label">NER Prediction</label>
+                  <div v-if="NERData.length">
+                      <div v-for="(d,index) in NERData">
+                          <input type="text" class="form-control" id="exampleInputPassword1" v-model="NERData[index]" disabled>
+                      </div>
+                  </div>
+                </div>
+              </div>
+        
+              <div class = "col">
+                <br><br>
+            <div class="mb-3">
+              <label for="exampleInputPassword1" class="form-label">Correct Spelling</label>
+              <div v-if="NERData.length">
+                <div v-for="(d,index) in NERData">
+                  <input type="text" class="form-control" id="exampleInputPassword1" v-model="CorrectedData[index]>
+                </div>
+              </div>
+            </div>
+          </div>  
+            
+              <div class = "col">
+                <br><br>
+                <div class = "col">
+                  <label for="inputclass" class="form-label">Class</label>
+                  <div v-if="NERData.length">
+                    <div v-for="(d,index) in NERData">
+                      <select class="form-select" aria-label="Default select example", id="inputclass" v-model="Category[index]">
+                        <option selected value="0">Medicine</option>
+                        <option value="1">Person</option>
+                        <option value="2">Dose</option>
+                        <option value="3">Frequency</option>
+                        <option value="4">Address</option>
+                        <option value="5">Phone Number</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+              </div>
+        
+              <div class = "col">
+                <br><br>
+                <div class="col-6 fluid">
+                  <button type="button" class="btn btn-light red1"> <p style="color:#ffffff;margin-bottom:0px;"> Delete </p> </button>
+                </div>
+              </div>
+              
+              </div>
+              
+        <div class="row">
+        
+          <div class="col fluid">
+            <br>
+            <button type="button" class="btn btn-light purple1 save" @click="UpdateDatasets"> <p style="color:#ffffff;margin-bottom:0px;"> Save </p> </button>
+          </div>
+        
+        </div>
+            
+              <!-- row4 col2 ends-->
+        
+              <div class="col-3"> </div> <!-- row 4 col3-->
+            </div>
+            <!-- row 4 ends-->
+        
+        
+          </div>
+          <!--jumbotron ends-->
+        
+            </div>
+</body>
+</html>

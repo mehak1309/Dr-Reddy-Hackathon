@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <title>Document</title>
+
+
+    <style>
+
+      *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      
+      section{
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      section .text-container{
+         display: flex;
+      }
+      
+      .reveal {
+        position: relative;
+        transform: translateY(150px);
+        opacity: 0;
+        transition: 1s all ease;
+      }
+      
+      .reveal1{
+        position: relative;
+        transform: translateY(150px);
+        opacity: 0;
+        transition: 1s all ease;
+      }
+      
+      .reveal.active {
+        transform: translateY(0);
+        opacity: 1;
+      }
+      
+      .reveal1.active{
+        transform: translateY(0);
+        opacity: 1;
+      }
+      
+      .purple1{
+        background-color: rgb(100, 55, 184);
+        text-align: center;
+    }
+      
+          .white1 {
+            background-color: rgb(255, 255, 255);
+          }
+      
+      
+          a:hover {
+            text-decoration: none;
+      
+          }
+      
+          a:link {
+            text-decoration: none;
+          }
+      
+      
+          .center {
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+            display: block;
+            margin-top: 10px;
+          }
+      
+          .h1 {
+            text-align: center;
+          }
+          
+          .block {
+              display: block;
+              width: 200px;    
+          }
+          
+          .margin-auto {
+              margin: 0 auto;
+          }
+      
+          .shiftleftimg {
+            position:relative;
+            margin-left: -440px;
+            margin-top: 60px;
+          }
+      
+          .white2{
+            background-color: rgb(255, 255, 255);
+            
+          }
+      
+          .shiftleftimg2 {
+              position:relative;
+              margin-left: 70px;
+              margin-top: 15px;
+            }
+      
+          
+            .shiftleftimg3 {
+              position:relative;
+              margin-left: 90px;
+              margin-top: 50px; 
+            }
+          html, body {
+              max-width: 100%;
+              overflow-x: hidden;
+          }
+      
+          .leftside{
+            margin-right: 120px;
+            margin-left: 20px;
+          }
+      
+          .shiftimage3{
+            margin-right: 0px;
+            margin-top:50px;
+          }
+      
+          .givemargin{
+            margin-top:0px;
+          }
+      
+          .div1 {
+            
+            padding: 10px;
+            background-color: rgb(247, 247, 247);
+            margin: 50px;
+            border-radius: 10px;
+          }
+      
+          .div2 {
+            
+            padding: 20px;
+            background-color: rgb(255, 255, 255);
+            margin: 50px;
+            border-radius: 10px;
+          }
+
+          .square {
+            height: 80px;
+            width: 80px;
+            background-color: rgb(245, 245, 245);
+            margin-bottom: 20px;
+            margin-left: auto;
+            margin-right: 50px;
+            margin-top: 10px;
+            border-radius: 8px;
+            padding:2px;
+          }
+
+          .squaremed1 {
+            height: 80px;
+            width: 80px;
+            background-color: rgb(243, 243, 243);
+            margin-bottom: 20px;
+            margin-left: 20px;
+            margin-top: 10px;
+            border-radius: 8px;
+            padding:2px;
+          }
+
+          
+
+          .div3 {
+            
+            background-color: rgb(250, 250, 250);
+            padding-top: 10px;
+            padding-bottom: 22px;
+            margin-top: -40px;
+            margin-right: 50px;
+            margin-left: 50px;
+            margin-bottom: 50px;
+            border-radius: 10px;
+          }
+
+          .div12 {
+            
+            background-color: rgb(248, 248, 248);
+            padding:10px;
+            margin-top: -45px;
+            margin-right: 50px;
+            margin-left: 50px;
+            margin-bottom: 60px;
+            border-radius: 10px;
+            height: 120px;
+          }
+          
+
+          .div10 {
+            
+            background-color: rgb(250, 250, 250);
+            padding:10px;
+            margin-top: -45px;
+            margin-right: 50px;
+            margin-left: 50px;
+            margin-bottom: 50px;
+            border-radius: 10px;
+            height: 115px;
+          }
+
+          .div5 {
+            
+            background-color: rgb(245, 245, 245);
+            padding:10px;
+            margin-top: -40px;
+            margin-right: 50px;
+            margin-left: 50px;
+            margin-bottom: 50px;
+            border-radius: 10px;
+          }
+
+
+          .div6 {
+              margin-left: 50px;
+              margin-top: -20px;
+          }
+      
+          .div7 {
+            margin-left: auto; 
+            margin-right: 60px;
+            width: 200px;
+            margin-top: -20px;
+            font-size: 10px;
+        }
+
+        .div8 {
+          margin-left: auto; 
+          margin-right: 50px;
+          width: 200px;
+          margin-top: -20px;
+          font-size: 10px;
+      }
+
+      .div9 {
+        margin-left: 50px; 
+        width: 900px;
+        margin-top: -20px;
+        font-size: 10px;
+    }
+          #loading {
+            max-width: 100vw;
+            overflow:hidden;
+          }
+      
+          .uppershift{
+            margin-top: -50px;
+          }
+      
+            .shiftjum {
+                display: block;
+                margin-left: 270px;
+                margin-right: 150px;
+              
+              }
+          
+       
+      
+          .white1{
+            background-color: rgb(255, 255, 255);
+            border-color: #646464;
+        }
+      
+      
+          a:hover { 
+              
+              text-decoration: none;
+      
+            }
+      
+          a:link {
+              text-decoration: none;
+          }
+      
+          .block {
+            display: block;
+            width: 200px;    
+        }
+        
+        .margin-auto {
+            margin: 0 auto;
+        }
+      
+        .one {
+          border-style: solid;
+          border-color: rgb(245, 245, 245);
+          background-color: rgb(245, 245, 245);
+          margin-left: 20%;
+          margin-right: 32%;
+        }
+      
+        .two{
+          text-align: center;
+        }
+      
+        .three{
+          margin-left: 5%;
+          margin-right: 5%; 
+          margin-top: 3%; 
+          margin-bottom: 3%; 
+          color:#646464; 
+          font-size:12.5px
+        }
+      
+        .four1{
+          margin-left: 90%;
+          margin-right: 20%; 
+          margin-top: -140px; 
+          width: 8%;
+        }
+      
+        .five1{
+          margin-left: 90%;
+          margin-right: 20%; 
+          margin-top: -105px; 
+          width: 8%;
+        }
+
+        .square3 {
+          height: 85px;
+          width: 85px;
+          background-color: rgb(212, 212, 212);
+          border-radius: 5%;
+          margin-left: 40px;
+          margin-top: 5px;
+        }
+
+        
+
+            
+      .red1{
+        background-color: rgb(197, 22, 22);
+        text-align: center;
+    }
+
+   
+
+    </style>
+</head>
+<body>
+
+  
+    <div>
+       <br><br><br>
+    <!--row 3 starts-->
+    
+    <!--row 4 starts-->
+  
+    <h1 class="two"> Prescriptions </h1> <br> <br> <br> <br>
+        
+<!--22dd-->
+
+
+
+  <div>
+  
+   
+    
+<!---->
+
+          
+
+               
+
+               
+                  
+                   <br> 
+
+<!--med starts-->
+          <div class="div12">
+
+            <div class="squaremed1"> 
+      
+                 <img src="../static/prescription2.png" height="100px" width="185" style="margin-left:-54px; margin-top:-11px;"> 
+             </div> 
+             <p style="margin-left: 150px; margin-top:-85px; color:#727272; font-size:15px;"> <b> Prescription 1 </b> <br> 25/12/22 12:00 pm <br> </p>
+             <form> <a href=""> <button type="submit" class="btn btn-light purple1 four1">  <p style="color: rgb(255, 255, 255); margin-bottom: 0px; font-size:90%;"> Annotate </p></button> </a> </form> 
+             <form> <a href=""> <button type="submit" class="btn btn-light purple1 five1">  <p style="color: rgb(255, 255, 255); margin-bottom: 0px; font-size:90%;"> Delete </p></button> </a> </form> 
+        </div>
+  
+<!--med ends-->
+
+<!--extracted text starts-->
+ 
+
+ 
+ 
+
+    
+
+
+
+
+
+             
+          </div>
+    </div>
+
+
+
+
+<div class="div6">
+
+</div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+</body>
+</html>

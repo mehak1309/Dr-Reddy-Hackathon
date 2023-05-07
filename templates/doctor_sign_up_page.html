@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Login Page</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+  <style>
+    .purple1 {
+      background-color: rgb(100, 55, 184);
+      text-align: center;
+    }
+
+    .white1 {
+      background-color: rgb(255, 255, 255);
+    }
+
+
+    a:hover {
+      background-color: rgb(50, 5, 80);
+      text-decoration: none;
+
+    }
+
+    a:link {
+      text-decoration: none;
+    }
+
+
+    .center {
+      margin-left: 1%;
+      margin-right: auto;
+      width: 102.3%;
+      display: block;
+      margin-top: 10px;
+    }
+
+    .h1 {
+      text-align: center;
+    }
+
+    .topmargin{
+      margin-top: 7px;
+    }
+
+  </style>
+</head>
+
+<body>
+
+  <br> <br> <br> 
+
+
+
+
+
+  <div class="jumbotron p-5">
+
+
+    <!-- Row 1 starts -->
+    <div class="row">
+
+      <div class="col-4"> </div>
+   
+        <h1> <center> Create your Account <center> </h1>
+
+      <div class="col-4"> </div>
+
+    </div>
+    <!-- Row 1 ends -->
+    <br> <br>
+    <!-- Row 2 starts -->
+    <div class="row">
+      <div class="col-3"> </div> <!-- row2 col 1-->
+      <div class="col-6">
+        <!-- row2 col 2-->
+        <form>
+          <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Name</label>
+            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+            <!-- <div id="emailHelp" class="form-text">Never share your username with anyone else.</div> -->
+          </div>
+      </div>
+      <!-- row 2 col 2 ends-->
+      <div class="col-3"> </div>
+      <!--row2 col3-->
+    </div>
+    <!-- Row 3 ends -->
+    <!-- Row 3 starts -->
+    <div class="row">
+      <div class="col-3"> </div> <!-- row2 col 1-->
+      <div class="col-6">
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Email Address</label>
+          <input type="text" class="form-control" id="exampleInputPassword1">
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Password</label>
+          <input type="password" class="form-control" id="exampleInputPassword1">
+        </div>
+
+
+        <div class = "row">
+
+          <div class = "col">
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Age</label>
+          <input type="text" class="form-control" id="exampleInputPassword1">
+        </div>
+      </div>
+
+      <div class = "col">
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Gender</label>
+          <input type="text" class="form-control" id="exampleInputPassword1">
+        </div>
+      </div>
+      <div class = "col">
+        Location
+        <select class="form-select topmargin" aria-label="Default select example", id="inputaddress">
+          <option selected>Hyderabad</option>
+          <option value="1">Bengaluru</option>
+          <option value="2">Malkajgiri</option>
+          <option value="3">Srikakulam</option>
+          <option value="3">Sangareddy </option>
+          <option value="3">Solan</option>
+          <option value="3">Malkajgiri</option>
+          <option value="3">Visakapatanam</option>
+          <option value="3">Nalgonda</option>
+        </select>
+      </div>
+      </div>      
+      <!-- row 3 col 2 ends-->
+      <div class="col-3"> </div>
+      <!--row3 col3-->
+    </div>
+    <!-- row 3 ends-->
+
+    <!-- row 4 starts-->
+    <div class="row">
+      <div class="col-3"> </div> <!-- row2 col 1-->
+      <div class="col-6 fluid">
+        <a href=""> <button type="submit" class="btn btn-light purple1 center"> <p style="color:#ffffff;margin-bottom:0px;"> Submit </p> </button> </a>
+      </div>
+      <!-- row4 col2 ends-->
+      </form>
+
+      <div class="col-3"> </div> <!-- row 4 col3-->
+    </div>
+    <!-- row 4 ends-->
+
+
+  </div>
+  <!--jumbotron ends-->
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>

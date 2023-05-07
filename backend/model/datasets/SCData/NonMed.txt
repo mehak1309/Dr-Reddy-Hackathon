@@ -1,0 +1,1410 @@
+0 1 2 3 4 5 6 7 8 9
+x1 x2 x3 x4 x5 x6 x7 x8 x9 
+1x 2x 3x 4x 5x 6x 7x 8x 9x
+1week 2weeks 3weeks 4weeks 5weeks 6weeks 7weeks 8weeks 9weeks 10weeks 11weeks 12weeks 13weeks 14weeks 15weeks
+1day 2days 3days 4days 5days 6days 7days 8days 9days 10days 11days 12days 13days 14days 15days 16days
+17days 18days 19days 20days 21days 22days 23days 24days 25days 26days 27days 28days 29days 30days
+20years 
+year 
+today
+last 
+1
+gad
+g a d
+d
+lpd
+l p d
+50mg
+30d 40d 50d 5d 3d 1d 2d 4d 6d 7d 8d 9d 10d 11d 12d 13d 14d 15d 16d 17d 18d 19d 20d 21d 22d 23d 24d 25d 26d 27d 28d 29d 30d 
+10d 
+mth 
+heartburn discomfort nausea body sensation
+cbp
+odac
+mm
+sgpt
+20d
+times 
+one two three four five six seven eight nine 
+500y
+food 
+bath 
+afterbath 
+follow up 
+cbr
+20days
+onwards 
+units 
+1d
+long 
+5d 
+years 
+bed time 
+y
+cect abdomen pain
+rbs
+bph
+40y 
+change in 72 hrs 
+hours 
+hour 
+tbs 
+3mnths
+tab at 
+1pm 2pm 3pm 4pm 5pm 6pm 7pm 8pm 9pm 10pm 11pm 12pm  
+1am 2am 3am 4am 5am 6am 7am 8am 9am 10am 11am 12am  
+1hr 2hrs 3hrs 4hrs 5hrs 6hrs 7hrs 8hrs 9hrs 
+hr 
+hrs 
+qid
+tds 
+8am 8pm 
+last 
+mnths
+tsf
+every monday tuesday wednesday thursday friday saturday sunday 
+2pm 
+1tsf 2tsf 3tsf 4tsf 5tsf 6tsf 7tsf 8tsf
+after food breakfast 
+once a day  
+mth 
+month 
+due to 
+creatinine
+ns 
+oral fluids 
+months 
+each 
+po 
+9pm 
+evaluation 
+1mth 2mths 3mths 4mths 5mths 6mths 7mths 8mths 9mths 10mths 11mths 12mths
+mth 
+mths 
+1month 2months 3months 4months 5months 6months 7months 8months 9months 9months 10months 11months 12months
+1scoop 2scoops 3scoops  
+8pm 3pm 
+scoop
+scoops 
+200gm
+bd 
+3 mths
+month 
+months 
+to wait for 10 days 
+including 
+year 
+temp 
+once daily  
+after lunch 
+after dinner 
+week
+morning 
+empty stomach 
+30 min 
+weeks 
+for
+not done 
+daily 
+every other day 
+twice a day
+once
+two 
+three times a day
+four times a day
+every bedtime
+every 4 hours
+every 4 to 6 hours
+every week
+gram
+everyday
+day
+evening 
+2mins
+g
+g
+gm
+drop
+drop by drop
+hour
+week
+bedtime
+day
+days 
+hours of sleep
+night
+x times
+ideal body weight
+liter
+pound
+afternoon
+early morning
+lb
+last menstrual cycle period
+morning
+evening
+microgram
+mg
+milligram
+molecular weight
+night
+and morning
+no known drug allergies
+no known allergies
+exceed
+overdose
+once daily
+once per day
+over the counter
+as prescribed taking 
+eye check up 
+heavinesss in abdomen 
+after meals
+as needed
+evening
+every 4 hours 
+8
+12
+day
+each night bedtime
+four times a day
+every other day
+prescription
+temperature
+tablespoon
+tbsp
+tbsp
+teaspoon
+regular
+unit
+microgram
+30 units
+kg
+od
+ob
+high frequency
+small quantity
+morning 
+od
+tab
+1tab 2tabs 3tabs 4tabs 5tabs 6tabs 7tabs 8tabs 9tabs 
+po
+qd
+ac
+bid
+gt
+hs
+od
+os
+bbf
+po
+pc
+prn
+q2h
+qd
+qh
+qid
+tab
+svp
+neb 
+face 
+before meals
+twice a day
+capsule
+right eye
+left eye
+cig day 
+mouth
+after meals
+pill
+as needed
+hours
+day
+hour
+4 times a day
+tablet
+3 times a day
+amt.
+q
+bd
+hr
+hours sleep
+water
+nacl
+na 
+k
+am
+pm
+x 5 times
+body 
+bid 
+tid 
+1 tab 
+2 tabs 
+twice
+daily in a week
+bf
+yrs 
+blood sugar
+pulse
+bowels
+uric acid
+eye swelling
+vaccination
+jaundice wt loss
+fever 
+covid recovered 
+covid positive 
+grade 2 fatty liver
+normal
+very low self esteem 
+multiple trigger
+osa 
+melasma
+changed lungs 
+liver abscess
+pleural effusion
+no bleed pr 
+constipation
+melena 
+bloat
+anemia
+hb 
+crohns disease
+pale stools 
+gas 
+abt 
+ad 
+ht 
+loss of appetite
+inflammatory markers
+nocturnal cpap
+post exertional
+abd 
+bf 
+bf 
+abdominal aortic aneurysm
+acne
+frequent menstrual cycle
+iron def anaemia
+burning 
+occ 
+rheumatology
+inflammation
+nash 
+cld 
+back legs 
+taste 
+anosmia
+ra 
+hard 
+poor 
+wheezing 
+lrt 
+ckd
+cld 
+myalgia
+lad 
+psvt
+svt 
+bp 
+avd 
+hyperuricemia
+recovered 
+alzheimer stage i ii iii iv v 
+persistent fever
+breathing difficulty 
+pr bp 
+nasal congestion headache
+pp bloat 
+elbow and hip pain 
+ild 
+bbf
+calcium 
+avoid smoking 
+gb thickness 
+facial expressions
+acidity 
+edema
+monitor fbs 
+insomnia
+pancreatitis
+frequency of stools  
+mctd
+raynauds
+bladder 
+upper abd pain 
+stools
+black spots 
+heart burn
+stale food 
+appetite
+itching
+salt 
+neurofibroma
+lipid
+rwma
+sgpt
+acs 
+colonoscopy
+dyspnea
+sgpt
+ibs
+mild 
+t2dm
+leg 
+cholecystitis
+lymphoblastic leukaemia
+acute myeloid leukaemia
+pancreatitis
+addisons disease
+alcohol liver disease
+allergic rhinitis
+allergies
+alzheimers disease
+anal cancer
+anaphylaxis
+angioedema
+ankylosing spondylitis
+anorexia nervosa
+discomfort 
+dyspepsia
+mesangial proliferative 
+mesangial widening
+anxiety
+disorders 
+appendicitis
+arthritis
+asbestosis
+asthma
+atopic eczema
+attention deficit hyperactivity disorder adhd   
+autistic spectrum disorder asd   
+bacterial vaginosis
+ar
+benign prostate enlargement
+bile duct cancer cholangiocarcinoma   
+binge eating
+bipolar disorder
+bladder cancer
+blood poisoning sepsis   
+bone cancer
+bone cancer   
+bowel cancer
+pregnancy 
+clear
+black colored stools 
+bowel incontinence
+bowel polyps
+brain stem death
+antiplatelet
+tumours
+brain tumours
+cancer female   
+breast   
+bronchiectasis
+bronchitis
+bulimia
+bunion
+carcinoid syndrome carcinoid tumours
+catarrh
+cellulitis
+cervical cancer
+chest infection
+chest pain
+chickenpox
+chilblains
+chlamydia
+fatigue syndrome
+kidney
+lymphocytic leukaemia
+myeloid leukaemia
+obstructive pulmonary disease
+pain
+chronic pancreatitis
+cirrhosis
+clostridium difficile
+coeliac disease
+cold sore
+coma
+common cold
+heart conditions
+congenital heart disease
+conjunctivitis
+cystic fibrosis
+constipation
+coronavirus covid 19   
+cough
+crohns disease
+croup
+cystic fibrosis
+cystitis
+deafblindness
+deep vein thrombosis
+dehydration
+dementia
+dementia with lewy bodies
+dental abscess
+depression
+dermatitis herpetiformis
+diabetes
+diarrhoea
+discoid eczema
+diverticular disease and diverticulitis
+dizziness    lightheadedness   
+downs syndrome
+dry mouth
+dysphagia    swallowing problems   
+dystonia
+earache
+earwax build    up
+ebola virus disease
+ectopic pregnancy
+endometriosis
+epilepsy
+erectile dysfunction    impotence   
+escherichia coli    e. coli    o157
+ewing sarcoma
+ewing sarcoma     children
+eye cancer
+febrile seizures
+fever in adults
+fever in children
+fibroids
+fibromyalgia
+flatulence
+flu
+foetal alcohol syndrome
+food poisoning
+functional neurological disorder fnd   
+fungal nail infection
+gallbladder cancer
+gallstones
+ganglion cyst
+gastroenteritis
+gastro oesophageal reflux disease gord   
+genital herpes
+genital warts
+germ cell tumours
+glandular fever
+gonorrhoea
+gout
+gum disease
+haemorrhoids    piles   
+hand    foot and mouth disease
+hay fever
+head and neck cancer
+head lice and nits
+headaches
+hearing loss
+heart failure
+hepatitis a
+hepatitis b
+hepatitis c
+hiatus hernia
+high cholesterol
+hiv
+hodgkin lymphoma
+hodgkin lymphoma     children
+hodgkin lymphoma     teenagers and young adults
+huntingtons disease
+hyperglycaemia    high blood sugar   
+hyperhidrosis
+hypoglycaemia    low blood sugar   
+idiopathic pulmonary fibrosis
+impetigo
+indigestion
+ingrown toenail
+inherited heart conditions
+insomnia
+iron deficiency anaemia
+irritable bowel syndrome    ibs   
+irritable hip
+itching
+itchy bottom
+kaposis sarcoma
+kidney cancer
+kidney infection
+kidney stones
+labyrinthitis
+lactose intolerance
+laryngeal    larynx    cancer
+laryngitis
+leg cramps
+lichen planus
+liver cancer
+liver disease
+liver tumours
+loss of libido
+lung cancer
+lupus
+lyme disease
+lymphoedema
+lymphogranuloma venereum    lgv   
+malaria
+malignant brain tumour    cancerous   
+malnutrition
+measles
+meningitis
+diabetic
+menopause
+mesothelioma
+middle ear infection    otitis media   
+migraine
+miscarriage
+motor neurone disease    mnd   
+mouth cancer
+mouth ulcer
+myeloma
+multiple sclerosis    ms   
+mumps
+menieres disease
+myasthenia gravis
+nasal and sinus cancer
+nasopharyngeal cancer
+neuroblastoma     children
+neuroendocrine tumours
+alcoholic fatty liver disease nafld   
+hodgkin lymphoma
+hodgkin lymphoma     children
+norovirus
+nosebleed
+obesity
+obsessive compulsive disorder ocd   
+obstructive sleep apnoea
+oesophageal cancer
+oral thrush in adults
+osteoarthritis
+osteoporosis
+osteosarcoma
+otitis externa
+ovarian cancer
+cancer    
+cyst
+overactive thyroid
+pagets disease of the nipple
+pancreatic cancer
+panic disorder
+parkinsons disease
+pelvic inflammatory disease
+pelvic organ prolapse
+penile cancer
+peripheral neuropathy
+personality disorder
+pleurisy
+cyst
+pneumonia
+polymyalgia rheumatica
+post    polio syndrome
+post    traumatic stress disorder    ptsd   
+postnatal depression
+pregnancy and baby
+pressure ulcers
+prostate cancer
+psoriasis
+psoriatic arthritis
+psychosis
+pubic lice
+rare tumours
+raynauds phenomenon
+reactive arthritis
+restless legs syndrome
+retinoblastoma     children
+rhabdomyosarcoma
+rheumatoid arthritis
+ringworm and other fungal infections
+rosacea
+scabies
+scarlet fever
+schizophrenia
+scoliosis
+septic shock
+shingles
+shortness of breath
+sickle cell disease
+sinusitis
+sjogrens syndrome
+skin cancer    melanoma   
+skin cancer    non    melanoma   
+slapped cheek syndrome
+soft tissue sarcomas
+soft tissue sarcomas     teenagers and young adults
+sore throat
+spleen problems and spleen removal
+stillbirth
+stomach ache and abdominal pain
+stomach cancer
+stomach ulcer
+streptococcus a    strep a   
+stress    anxiety low mood
+stroke
+sudden infant death syndrome    sids   
+suicide
+sunburn
+swollen glands
+syphilis
+testicular cancer
+testicular cancer
+testicular lumps and swellings
+thirst
+threadworms
+thrush
+thyroid cancer
+thyroid cancer    
+tinnitus
+tonsillitis
+tooth decay
+toothache
+transient ischaemic attack    tia   
+trigeminal neuralgia
+tuberculosis    tb   
+type 1 diabetes
+type 2 diabetes
+trichomonas infection
+transverse myelitis
+ulcerative colitis
+underactive thyroid
+urinary incontinence
+urinary tract infection    uti   
+urinary tract infection    uti    in children
+urticaria    hives   
+vaginal cancer
+varicose eczema
+venous leg ulcer
+vertigo
+vitamin b12 or folate deficiency anaemia
+vomiting in adults
+vulval cancer
+normal 
+warts and verrucas
+whooping cough
+wilms tumour
+womb    uterus    cancer
+yellow fever
+cough
+dengue
+covid 19
+cough
+fever
+itching
+headache
+hypothyroid
+vitd deficiency
+alzheimers stage iii
+hemorrhage
+exertional angina
+stress
+anteroseptal ischemia
+gynecomastia
+constipation
+occasional vomiting
+asteatotic eczema
+placida
+nasal congestion
+headache
+breathing difficulty
+chest pain
+pulmonary edema
+dyshidrosis
+perioral dermatitis
+pain abdomen
+wt loss
+flu
+elbow pain
+raynaud
+arthritis
+valvular heart disease
+allergic rhinitis
+soar throat
+melasma
+lichen planus pigmentosus
+dyspnea
+covid
+body pain
+covid    19
+persistent symptoms   
+occ palpitations
+episodic vertigo
+menopause
+nystagmus
+acne
+creatinine
+vulgaris
+pancreatitis syndrome
+insomnia
+proteinuria
+anxiety
+depression
+somatization disorder
+hypertension
+hypothyroid
+fever
+dt
+eye
+health check
+functional dyspepsia patient symptoms
+paresthesia
+cardiac evaluation
+reformed
+sore throat
+orthopedic
+sleep
+sore throat
+asteatotic eczema
+breathing difficulty
+cardiologist
+htn 1st episode
+severity
+wheezing cough
+phlegm   
+abdominal bloating
+grade 1 diastolic dysfunction treatment
+needs physical examination
+symptoms
+poor appetite
+htn
+tonsillectomy
+fever   
+allergy   
+cough mild
+ct chest   
+chest ct scan   
+cough mild   
+tonsillectomy
+pretracheal   
+pretracheal ln   
+pretracheal lymph node   
+parenchymal opacification   
+hypothyroidism
+complaints of loose stools
+choledochal cyst
+hba1c
+no mucus / blood   
+blood in phlegm   
+mild pain abdomen   
+colonoscopy   
+ulcers   
+stool routine
+hemoglobin a1c     
+thyroid profile
+empty stomach
+gerd indigestion altered bowel habits
+abdomen
+black colored stools
+bloat 
+smoking   
+alcohol   
+fever
+bladder   
+pain   
+ocd 
+hypothyroidism hypertension   
+hypothyroid   
+somatization   
+hypertension   
+ascites   
+cholecystectomy   
+anaphylactic reaction   
+nausea vomiting
+walk     
+crp
+chest pain
+hydration
+occasional
+chronic liver disease
+plenty of fruits and vegetables in diet
+constipation   
+liver   
+gas     
+vomiting   
+asymptomatic
+abdomen pelvis
+shoulder
+discomfort
+dysphagia
+odynophagia
+chest
+pain
+ppbs
+pressure
+dyspnea
+edema
+cold
+congestive
+heart
+failure
+chronic
+obstructive
+pulmonary
+disease
+hypertension
+benign
+prostatic
+hypertrophy
+hyperlipidemia
+chronic
+renal
+dysfunction
+peripheral
+vascular
+disease
+coronary
+artery
+disease
+ischemia
+inferior
+infarction
+soft
+tissue
+attenuation
+sigmoid
+colorectal
+cancer
+calcium
+osa
+covid
+post
+exertional
+hypothyroidism
+particle
+choledochal
+cyst
+pain
+rd
+submucosal
+subacromial
+anterior
+biceps
+tendon
+edema
+dysphagia
+prilosec
+pain
+abd.
+bowels
+jaundice
+wt
+loss
+fever
+doughy feeling 
+dns
+meva
+low salt 
+high protein diet 
+motion
+form
+ethene
+acidic
+raphe
+dystonia
+thyroid
+abd
+hypothyroidism gastroenterology dyspepsia
+functional
+flu
+vomiting
+dyspepsia
+paresthesia
+constipation
+bleed
+ppbs
+abd
+fever
+leprosy
+abd
+hernia
+bloat
+gas
+melena
+contraindication
+ascites
+novartis
+hypothyroidism
+hypertension
+endarterectomy
+anaphylactic
+reaction
+nausea
+vomiting
+hemorrhoid
+allergic
+asthma
+thyroid
+liver
+disease
+colonic
+angioectasia
+nausea
+vomiting
+constipation
+bladder
+tumor
+allergy
+flu
+hypothyroid
+ocd
+ibs
+anemia
+swelling
+around
+umbilicus
+indigestion
+tachycardia
+state
+food
+vomiting
+primary cold
+wt
+loss.
+constipation
+epistaxis
+fever
+cough
+myalgia
+vomiting
+jaundice
+abdominal
+flu 
+blood sugar   
+post exertional
+iron
+tobacco
+smoking
+alcohol
+smoke
+allergies
+ankle problems
+back problems
+bowel incontinence
+calf problems
+catarrh
+chest pain
+chilblains
+chronic pain
+living well with coeliac disease
+cold sore
+constipation
+living well with copd
+cough
+dehydration
+dizziness    lightheadedness   
+dry mouth
+earache
+elbow problems
+fever in adults
+fever in children
+flatulence
+flu
+foot problems
+hay fever
+headaches
+hearing loss
+heart palpitations
+hip
+bowel incontinence
+indigestion
+itching
+itchy bottom
+urinary incontinence
+eye swelling edema
+knee problems
+migraine
+mouth ulcer
+neck problems
+nosebleed
+skin rashes in children
+shortness of breath
+shoulder
+skin rashes
+sore throat
+stomach ache and abdominal pain
+swollen glands
+testicular lumps and swellings
+thigh problems
+tinnitus
+toothache
+urinary incontinence
+urinary tract infection uti   
+vertigo
+vomiting in adults
+warts and verrucas
+wrist
+hand problems
+anus
+arteries
+appendix
+adrenal glands
+brain
+bones
+bronchi
+bladder
+bone marrow
+colon
+cervix
+clitoris
+capillaries
+cerebellum
+diaphragm
+ears
+eyes
+fallopian tubes
+genitals
+gallbladder
+heart
+hair follicle
+hypothalamus
+kidneys
+joints
+liver
+lungs
+larynx
+ligaments
+lymph nodes
+large intestine
+lymphatic vessel
+mouth
+mesentery
+mammary glands
+nose
+nails
+skin
+spleen
+scrotum
+stomach
+spinal cord
+small intestine
+salivary glands
+skeletal muscles
+teeth
+tonsils
+tendons
+tongue
+thyroid
+trachea
+thymus gland
+ureters
+urethra
+uterus
+vulva
+veins
+vagina
+human skeleton
+muscular system
+lips
+electrolytes
+parotid glands
+submandibular glands
+sublingual glands
+pharynx
+esophagus
+duodenum
+jejunum
+ileum
+cecum
+ascending colon
+transverse colon
+descending colon
+sigmoid colon
+rectum
+pancreas
+anal canal
+respiratory system
+nasal cavity
+bronchioles and smaller air passages
+muscles of breathing
+urinary system
+ureter
+reproductive systems
+female reproductive system
+internal reproductive organs
+ovaries
+placenta
+external reproductive organs
+male reproductive system
+testes
+epididymis
+vas deferens
+seminal vesicles
+prostate
+bulbourethral glands
+penis
+endocrine system
+pituitary gland
+pineal gland
+thyroid gland
+parathyroid glands
+circulatory system
+lymphatic system
+lymph node
+hba1c
+thymus
+lymphoid tissue
+nervous system
+cerebrum
+cerebral hemispheres
+thalamus
+midbrain
+medulla oblongata
+the spinal cord
+the ventricular system
+peripheral nervous system
+nerves
+cranial nerves
+spinal nerves
+sensory organs
+eye
+cornea
+iris
+ciliary body
+lens
+retina
+ear
+outer
+earlobe
+problem
+disease 
+skin 
+rash 
+eardrum
+middle ear
+ossicles
+inner ear
+cochlea
+vestibule of the ear
+semicircular canals
+olfactory epithelium
+taste buds
+integumentary system
+tissue
+sternum 
+ribs 
+initially now dry
+cervical ribs 
+spine
+cervical vertebrae 
+thoracic vertebrae 
+lumbar vertebrae 
+sacrum 
+coccyx 
+hear
+ckd with proteinuria
+touch
+smell
+vision
+audio
+first aid
+injury
+ambulance
+disability
+circulation
+breathing
+airway 
+catastrophic bleeding (massive external bleeding)
+environment 
+oxygen
+mental health
+exercise
+iron
+choking
+cramps
+childbirth
+bone fracture
+burns
+cardiac arrest
+joint dislocation
+poisoning
+seizures
+muscle strains 
+sprains
+stroke
+toothache
+wounds
+bleeding
+lacerations
+incisions
+abrasions
+gastrointestinal bleeding
+avulsions
+sucking chest wounds
+occlusive dressing 
+information leaflet
+medium sterile dressings
+large sterile dressings
+bandages
+triangular dressings
+safety pins
+adhesive dressings
+sterile wet wipes
+microporous tape
+nitrile gloves
+face shield
+foil blanket
+burn dressings
+clothing shears
+conforming bandages
+dressing
+antiseptic cream
+scissors
+tweezers
+cotton
+hand
+wrist
+throat
+fingers
+type 
+fahrenheit
+gargle
+glucose tolerance test
+histamine 
+heart rate
+injection
+potassium
+liquid
+nausea and vomiting
+ammonia
+sodium
+right eye
+left eye
+orally or by mouth
+urinary tract infection
+ointment
+white blood cell
+abortion
+amniocentesis
+amputation
+antiplatelets
+clopidogrel
+arthroscopy
+barium enema
+beta blockers
+biopsy
+blood tests
+blood transfusion
+breast and cosmetic implants
+bronchodilators
+chemotherapy
+vision
+chorionic villus sampling
+colostomy
+colposcopy
+contraception
+coronary artery bypass graft
+ct scan
+cytosponge
+dialysis
+echocardiogram
+electrocardiogram  ecg 
+hand tendon repair
+hearing tests for children
+herbal medicine
+hip replacement
+hiv prep pre exposure prophylaxis
+home oxygen treatment
+homeopathy
+hormone replacement therapy hrt
+hysteroscopy
+ileostomy
+inguinal hernia repair
+knee replacement
+liver transplant
+local anaesthesia
+finger
+lumbar decompression surgery
+lung transplant
+mastectomy
+mri scan
+old occupational therapy
+pet scan
+screening
+selective serotonin reuptake inhibitors ssris
+statins
+transurethral resection of the prostate turp
+ultrasound scan
+urinary catheterisation
+wisdom tooth removal
+x ray
+fbs
+rtpcr
+sob 
+hypothyroidism
+iron def anaemia
+awmi
+ecg
+lvef
+lvef
+bf 
+iron def anaemia
+htn
+cad
+cad
+ct scan
+crp
+creatinine test
+creatinine test
+d dimer test
+ferritin blood test
+ldh
+ecg
+cbc complete blood count
+hemoglobin a1c  hba1c 
+esr
+crp quantitative
+htn
+creatinine test
+dm
+htn
+cad
+mrcp
+ecg
+ct chest pain
+ldh
+lft
+rt
+albumin
+cr
+creatinine
+cbc
+lft
+lh 
+fsh
+rft
+spo2 
+hrct
+htn 
+biopsy
+euc
+usg 
+rbs 
+creatinine
+dm
+cardiac viability scan
+viable and non viable myocardium
+nt pro bnp
+natriuretic peptide tests
+cag
+gastroscopy
+tsh
+a/g
+pci 
+fpg
+crp 
+nlr
+nj tube feeds
+ccp
+vsg
+rca 
+act 
+sputum afb
+fibroscan liver
+hscrp
+viral marker
+mri
+grbs
+creatinine
+mixed then 
+tsh
+renal biopsy
+ptca
+complete haemogram
+menorrhagia
+lipid profile

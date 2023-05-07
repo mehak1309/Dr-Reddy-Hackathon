@@ -1,0 +1,17 @@
+services:
+  app:
+    image: nidhishk/scanplus
+    build: .
+    ports:
+      - "8000:8000"
+      - "5000:5000"
+    volumes:
+      - .:/code
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       memory: 32Gb
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1
+    #           capabilities: [gpu]
